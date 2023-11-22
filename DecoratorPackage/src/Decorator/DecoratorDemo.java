@@ -33,9 +33,9 @@ public class DecoratorDemo {
         
         System.out.println("Select the Following Options:-");
         System.out.println("1.Circle With Normal Border");
-        System.out.println("2.Rectangle With Normal Border");
-        System.out.println("3.Cicle with Red Border");
-        System.out.println("4.Rectangle With Red Border");
+        System.out.println("2.Rectangle With Normal Border ");
+        System.out.println("3.Cicle with Red Border Decoration");
+        System.out.println("4.Rectangle With Red Border Decoration");
         
         while(true)
         {
